@@ -2,7 +2,7 @@ export const heroContent = {
   eyebrow: "React Interview AMP",
   title: "Employee Review Dashboard",
   description:
-    "Build this dashboard with React state, effects, events, filtering, and sorting. Use the CSS classes in styles.css.",
+    "Wire up React state, effects, events, filtering, and sorting using the layout and CSS classes already provided.",
 };
 
 export const interviewTasks = [

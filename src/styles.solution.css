@@ -212,6 +212,14 @@ select {
   color: #66738c;
 }
 
+.prompt {
+  margin-bottom: 0;
+}
+
+.prompt li {
+  margin-bottom: 8px;
+}
+
 @media (max-width: 800px) {
   .controls,
   .layout {

@@ -1,3 +1,5 @@
+// Interviewer reference only.
+// Preview with: import App from "./App.solution.jsx" and import "./styles.solution.css" in main.jsx
 import { useEffect, useMemo, useState } from "react";
 import { heroContent, interviewTasks } from "./content";
 import { initialEmployees } from "./data";
