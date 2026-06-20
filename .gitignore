@@ -5,6 +5,9 @@ node_modules/
 dist/
 dist-ssr/
 
+# TypeScript
+*.tsbuildinfo
+
 # Local env files
 .env
 .env.*
